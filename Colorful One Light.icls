@@ -1,15 +1,15 @@
 <scheme name="Colorful One Light" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2018-10-12T12:29:31</property>
+    <property name="created">2018-10-12T12:52:25</property>
     <property name="ide">GoLand</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2018-10-12T12:29:38</property>
+    <property name="modified">2018-10-12T12:52:38</property>
     <property name="originalScheme">Colorful One Light</property>
   </metaInfo>
   <attributes>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="a626a4" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -25,6 +25,12 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="50a14f" />
+      </value>
+    </option>
+    <option name="GO_BUILTIN_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="55b5db" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="GO_EXPORTED_FUNCTION">
